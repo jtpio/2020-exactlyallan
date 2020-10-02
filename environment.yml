@@ -1,4 +1,4 @@
-# name: cudf_dev10.2
+name: rapids
 channels:
 - rapidsai
 - rapidsai-nightly
